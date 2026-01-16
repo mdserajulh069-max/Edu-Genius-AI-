@@ -1,0 +1,7 @@
+{
+  "name": "EduGenius AI - Universal Study Assistant",
+  "description": "A comprehensive AI-powered educational platform for solving multi-subject problems (Math, Physics, Languages) and generating high-quality study notes, PYQs, and learning materials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
